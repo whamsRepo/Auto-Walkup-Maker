@@ -10,7 +10,7 @@ This tool lets you combine a 34-second non-copyright intro with a custom audio c
 ---------------
 1. Download and install the .exe from the link provided below
 https://drive.google.com/file/d/196s1Iepu5ro7YogrFvxdduxk5bR4Zuoi/view?usp=sharing
-2. For the Non-Copyright audio to place at the beginning, look at the "Audio" section in the repository
+2. For the Non-Copyright audio to place at the beginning, look at the "Non_Copyright.mp3" file in the repository
 
 🛠 How It Works
 ---------------
