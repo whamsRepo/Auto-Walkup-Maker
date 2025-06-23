@@ -23,3 +23,10 @@ This tool lets you combine a 34-second non-copyright intro with a custom audio c
 ---
 
 🗑 To uninstall: Use Control Panel or run the "Uninstall AutoAudio Tool" shortcut
+
+🛠 Virus Total
+---------------
+Still unsure on whether or not to download?
+Run our program through virustotal to clear your suspicions.
+
+https://www.virustotal.com/gui/home/upload
