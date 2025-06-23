@@ -6,6 +6,12 @@ AutoAudio Tool
 
 This tool lets you combine a 34-second non-copyright intro with a custom audio clip that ends exactly at the 59-second mark.
 
+🛠 Installer
+---------------
+1. Download and install the .exe from the link provided below
+https://drive.google.com/file/d/196s1Iepu5ro7YogrFvxdduxk5bR4Zuoi/view?usp=sharing
+2. For the Non-Copyright audio to place at the beginning, look at the "Audio" section in the repository
+
 🛠 How It Works
 ---------------
 1. Run the installer
